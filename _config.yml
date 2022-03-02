@@ -3,3 +3,15 @@ name: Jatin Jain
 
 
 description: Bookmark this to keep an eye on my project updates!
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - command.txt
+  - todo.txt
+  - _temp/index.html
+  - _temp/
